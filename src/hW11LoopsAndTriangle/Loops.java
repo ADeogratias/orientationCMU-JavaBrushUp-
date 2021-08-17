@@ -1,5 +1,13 @@
 package hW11LoopsAndTriangle;
 
+/**
+ *
+ * @author Deogratias Amani
+ * On my honor, as a Carnegie-Mellon Africa student,
+ * I have neither given nor received unauthorized assistance on this work.
+ *
+ */
+
 public class Loops {
     public static void main(String[] args) {
         // print out how many times the loops executes

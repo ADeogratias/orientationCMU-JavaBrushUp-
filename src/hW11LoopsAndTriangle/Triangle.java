@@ -4,6 +4,14 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ *
+ * @author Deogratias Amani
+ * On my honor, as a Carnegie-Mellon Africa student,
+ * I have neither given nor received unauthorized assistance on this work.
+ *
+ */
+
 public class Triangle
 {
     public static void printStarLine(int numStars)
