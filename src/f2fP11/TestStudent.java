@@ -1,3 +1,12 @@
+package f2fP11;
+/**
+ *
+ * @author Deogratias Amani
+ * On my honor, as a Carnegie-Mellon Africa student,
+ * I have neither given nor received unauthorized assistance on this work.
+ *
+ */
+
 public class TestStudent
 {
     // driver test for student class
